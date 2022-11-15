@@ -2,7 +2,7 @@
 
 Here is a link to my website, go check it out!
 
-www.gretarmark.github.io
+https://gretarmark.github.io/
 
 <!--
 **gretarmark/gretarmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
