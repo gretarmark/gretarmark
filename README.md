@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Here is a link to my website, go check it out!
-
-https://gretarmark.github.io/
+Website: https://gretarmark.github.io/  (in progress)
 
 <!--
 **gretarmark/gretarmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
