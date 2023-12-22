@@ -14,7 +14,6 @@ I have also developed control system algorithms in the following subjects:
 * Robust Control
 * Fault-Tolerant Control
 
-Don't hesitate to visit my website: [https://gretarmark.github.io/](https://gretarmark.github.io/)
 
 <!--
 **gretarmark/gretarmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
