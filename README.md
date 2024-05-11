@@ -1,8 +1,8 @@
 ### Welcome to my GitHub page 👋
 
-Electrical and Control Engineer. Develop solutions for industrial control; design softwares for PLC/PAC controllers, and electrical systems using EPLAN. Leverage tools like Matlab/Simulink to perform data analysis and control simulations. Moreover, I ensure flawless functionality through System Acceptance Testing (SAT).
+Electrical and Control Engineer. Develop solutions for industrial control; design software for PLC/PAC controllers, and electrical systems using EPLAN. Leverage tools like Matlab/Simulink to perform data analysis and control simulations. Moreover, I ensure flawless functionality through System Acceptance Testing (SAT).
 
-My academic background provided me experience in control system design (e.g. MPC, LQR, PID...), image analysis and programming.
+My academic background provided me experience in control system design (e.g. MPC, LQR, PID...), image analysis, and programming.
 
 
 <!--
