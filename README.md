@@ -1,9 +1,8 @@
 ### Welcome to my GitHub page 👋
 
-As an Electrical and Control Engineer at Verkís Consulting Engineers, I develop solutions for industrial process control. I leverage tools like Matlab to perform data analysis and to design and simulate PID control systems that optimize efficiency and performance for hydro power plants. I'm also proficient in PLC programming and electrical system design, and I take pride in ensuring flawless functionality through System Acceptance Testing (SAT).
+Electrical and Control Engineer. Develop solutions for industrial control; design softwares for PLC/PAC controllers, and electrical systems using EPLAN. Leverage tools like Matlab/Simulink to perform data analysis and control simulations. Moreover, I ensure flawless functionality through System Acceptance Testing (SAT).
 
-From my previous study program in electrical engineering my specialization lies in control system design, where I've developed advanced algorithms including Model Predictive Control, PID, LQR/LQG, Adaptive Control, Robust Control, and Fault-Tolerant Control.
-Additionally, I have hands-on experience in image analysis, having developed algorithms such as BLOB analysis, edge detection, Principle Component Analysis, and more. My versatile skill set allows me to tackle complex challenges effectively and deliver innovative solutions.
+My academic background provided me experience in control system design (e.g. MPC, LQR, PID...), image analysis and programming.
 
 
 <!--
