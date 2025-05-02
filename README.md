@@ -1,6 +1,8 @@
 ### Welcome to my GitHub page 👋
 
-I work as an electrical- and control engineer and develop automation software solutions for industrial control. I leverage tools like Matlab/Simulink to perform data analysis and control simulations. Moreover, I ensure flawless functionality through Factory Acceptance Testing (FAT) and System Acceptance Testing (SAT).
+I am an Electrical Engineer specializing in embedded systems, automation, and control. I design, develop, and implement solutions for dynamic control systems. In addition to professional projects, I work on embedded personal projects and design my own softwares and PCBs using KiCad.
+
+I have expertise in developing control algorithms, including Model Predictive Control (MPC), Robust Control, Stochastic and Adaptive Control, LQR, and PID, as well as image analysis algorithms. I also have a proven track record in PLC programming, working with Schneider, Allen Bradley, Siemens Simatic, and Siemens Sicam.
 
 
 <!--
