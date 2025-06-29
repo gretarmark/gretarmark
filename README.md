@@ -1,8 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-I am an Electrical Engineer specializing in embedded systems, automation, and control. I design, develop, and implement solutions for dynamic control systems. In addition to professional projects, I work on embedded personal projects and design my own softwares and PCBs using KiCad.
-
-I have expertise in developing control algorithms, including Model Predictive Control (MPC), Robust Control, Stochastic and Adaptive Control, LQR, and PID, as well as image analysis algorithms. I also have a proven track record in PLC programming, working with Schneider, Allen Bradley, Siemens Simatic, and Siemens Sicam.
+I work as an Electrical Engineer (M.Sc.), designing and programming PLC control systems using Schneider, Allen-Bradley, and Siemens technologies. I challenge myself with personal projects to advance my skills in embedded systems, including designing PCBs and programming hardware in C/C++. My academic expertise is in developing control algorithms such as Model Predictive Control (MPC), Robust Control, Stochastic and Adaptive Control, Linear Quadratic Regulation (LQR), and PID control, as well as image analysis algorithms.
 
 
 <!--
